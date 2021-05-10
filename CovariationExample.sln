@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovariationExample", "CovariationExample\CovariationExample.csproj", "{6BAEE2F9-CAB9-4AA0-BECD-E94C19B84169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BAEE2F9-CAB9-4AA0-BECD-E94C19B84169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAEE2F9-CAB9-4AA0-BECD-E94C19B84169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAEE2F9-CAB9-4AA0-BECD-E94C19B84169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAEE2F9-CAB9-4AA0-BECD-E94C19B84169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9A94D62-A4DC-4E07-B060-97B7C5866899}
+	EndGlobalSection
+EndGlobal
